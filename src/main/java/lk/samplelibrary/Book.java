@@ -63,5 +63,5 @@ public class Book {
     @JoinColumn(name = "booktype_id",referencedColumnName = "id")
     private BookType booktype_id;
 
-    
+    //test
 }
